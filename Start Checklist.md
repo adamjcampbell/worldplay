@@ -1,0 +1,5 @@
+- [ ] Character Creation
+- [ ] System
+- [ ] Colony / Base
+- [ ] Locations
+- [ ] Plots

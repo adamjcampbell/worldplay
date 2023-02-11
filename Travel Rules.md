@@ -1,0 +1,6 @@
+1.  Remove one **sack of supplies** per human-sized person from the caravan inventory.
+2.  Have one hero roll a Charisma check for **misfortune**. The misfortune applies to the whole caravan, but heroes may roll saves individually.
+3. Check what **encounters** happen and resolve them.
+4. Any heroes that did not participate in a fight or flight can treat the week as a **long rest** (if you are using 5E D&D, I recommend the gritty realism rules variant in the 5E DMG, p. 267).
+5. Check if the caravan has arrived at a **destination**. Most destinations are a week apart, but some require two, or even three, weeks of voyaging in the wastes. If the caravan has not yet arrived at a safe location, repeat steps 1 to 5 until it does.
+6. When the caravan arrives at a destination, have one hero roll an Intelligence (or Investigation or other relevant skill) check for **discoveries** and note these down on the map. These are points of interest or minor locations a few days’ journey from the destination they spotted on the way. Only a limited number of discoveries can be made at each destination.

@@ -7,24 +7,24 @@ A character’s role or skills are not limited by a single class. Instead, the e
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
 
 ## Fiction First
-Dice do not always reflect an obstacle’s difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+Dice do not always reflect an obstacle’s difficulty or its outcome. Instead, success and failure are arbitrated by the Arbiter in dialogue with the players, based on in-world elements.
 
 ## Growth
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
 
 ## Neutrality
-The Warden’s role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+The Arbiter’s role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ## Player Choice
 Players should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently.
 
 ## Principles
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+The Arbiter and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
 
 ## Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 
-# Principles for Wardens
+# Principles for Arbiters
 
 ## Information
 - Provide useful information about the game world as the characters explore it.
@@ -86,7 +86,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Exploration
 - Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
+- Take the Arbiter's description without suspicion, but don't shy away from seeking more information.
 - There is no single correct way forward.
 
 ## Talking

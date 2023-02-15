@@ -24,7 +24,7 @@ Functors apply a single function upon the world and take up one item slot. Anyon
 
 If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from application of the function.
 
-If permitted by the Arbiter the parameters of a functor may be altered to produce a variant effect. For example a reversal of effect, more targets, increasse in power etc. Applying an altered function also requires a WIL save.
+If permitted by the Arbiter the parameters of a functor may be altered to produce a variant effect. For example a reversal of effect, more targets, increase in power etc. Applying an altered function also requires a WIL save.
 
 ## MOVEMENT
 

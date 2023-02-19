@@ -1,7 +1,7 @@
 ## ABILITIES  
 STR: Brawn, prowess & resistance.
 DEX: Dodging, sneaking & reflexes.
-WIL: Persuasion, intimidation & magic.
+WIL: Persuasion, intimidation & mental fortitude.
 
 ## SAVES
 Roll a d20 equal to or under an ability.  
